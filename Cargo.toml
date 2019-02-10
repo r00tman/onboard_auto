@@ -1,0 +1,7 @@
+[package]
+name = "onboard_auto"
+version = "0.1.0"
+authors = ["Victor Rudnev <Victor.Rudnev@risqitlab.com>"]
+edition = "2018"
+
+[dependencies]
